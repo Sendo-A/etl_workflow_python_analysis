@@ -3,7 +3,7 @@
 
 This script demonstrates how to import crime data from a CSV file into a MySQL database using Python. It involves reading data from a CSV file, creating a database if it doesn't exist, and loading the data into a MySQL table.
 
-<img src="https://github.com/Sendo-A/etl_workflow_python_analysis/blob/main/excel_python_mysql/Importing%20proof.PNG" alt="workflow" width="800">
+<img src="https://github.com/Sendo-A/etl_workflow_python_analysis/blob/main/excel_python_mysql/Importing%20proof.PNG" alt="workflow" width="1200">
 
 ## Prerequisites
 
