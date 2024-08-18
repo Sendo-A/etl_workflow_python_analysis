@@ -1,5 +1,5 @@
 
-# Crime Data Import and Database Setup
+# ETL from Flat File to Database using Python 
 
 This script demonstrates how to import data from a CSV file into a MySQL database using Python. It involves reading data from a CSV file, creating a database if it doesn't exist, and loading the data into a MySQL table.
 
