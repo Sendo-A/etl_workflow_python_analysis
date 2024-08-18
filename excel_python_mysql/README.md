@@ -11,8 +11,6 @@ This script demonstrates how to import crime data from a CSV file into a MySQL d
 - Required Python packages:
   - `pandas`
   - `numpy`
-  - `seaborn`
-  - `matplotlib`
   - `sqlalchemy`
   - `pymysql`
   - `configparser`
