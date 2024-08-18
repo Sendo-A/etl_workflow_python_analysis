@@ -5,7 +5,7 @@ This script demonstrates how to import crime data from a CSV file into a MySQL d
 
 <img src="https://github.com/Sendo-A/etl_workflow_python_analysis/blob/main/excel_python_mysql/Importing%20proof.PNG" alt="workflow" width="800">
 <img src="https://github.com/Sendo-A/etl_workflow_python_analysis/blob/main/excel_python_mysql/Etl_workflow_flat_file_mysql.gif" alt="workflow" width="800">
-<img src="https://github.com/Sendo-A/etl_workflow_python_analysis/blob/main/excel_python_mysql/Etl_Excel_Mysql_python_script.PNG.PNG" alt="workflow" width="800">
+<img src="https://github.com/Sendo-A/etl_workflow_python_analysis/blob/main/excel_python_mysql/Etl_Excel_Mysql_python_script.PNG" alt="workflow" width="800">
 
 
 ## Prerequisites
