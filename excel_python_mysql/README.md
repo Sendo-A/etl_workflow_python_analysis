@@ -20,7 +20,7 @@ This script demonstrates how to import crime data from a CSV file into a MySQL d
 Install the required packages using pip:
 
 ```bash
-pip install pandas numpy seaborn matplotlib sqlalchemy pymysql configparser
+pip install pandas numpy sqlalchemy pymysql configparser
 ```
 
 ## Configuration
